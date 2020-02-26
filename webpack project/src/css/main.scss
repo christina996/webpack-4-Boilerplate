@@ -1,0 +1,6 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+@import './style.css';
+$danger:rgb(165, 46, 46);
+#calculator{
+    background-color:$danger;
+}
